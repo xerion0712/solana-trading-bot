@@ -1,1 +1,0 @@
-callback: 6381452440 -> PIN_PASSWORD
