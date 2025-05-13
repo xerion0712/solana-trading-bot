@@ -1,4 +1,4 @@
-# Telegram Solana Trading Bot
+#Solana Trading Bot
 Solana Trading Bot running on Telegram
 
 ## Bot Link
@@ -52,5 +52,3 @@ Here are the commands to check the logs
 
 - check previous boot logs `journalctl -b -1`
 
-## Author
-Click here to contact [Author(idioRusty)](https://t.me/idioRusty)
